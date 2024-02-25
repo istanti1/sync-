@@ -1,0 +1,2 @@
+# sync-
+tesnet zksync
